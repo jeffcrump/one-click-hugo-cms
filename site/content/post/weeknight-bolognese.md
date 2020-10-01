@@ -24,7 +24,7 @@ This is a perfect one-dish meal, so don’t ruin it with a side salad. Just decl
 
 Now, that’s amore.
 
-<section class=“recipe”>
+{{< rawhtml >}}<section class=“recipe”>{{< /rawhtml >}}
 
 ## Recipe: Weeknight Bolognese
 
@@ -68,4 +68,4 @@ Makes 4 servings
 * Protein: 37
 * WW PP+ = 15
 
-</section>
+{{< rawhtml >}}</section>{{< /rawhtml >}}
