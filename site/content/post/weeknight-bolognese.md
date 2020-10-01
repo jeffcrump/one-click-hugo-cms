@@ -24,7 +24,7 @@ This is a perfect one-dish meal, so don’t ruin it with a side salad. Just decl
 
 Now, that’s amore.
 
-{{< rawhtml >}}<section class=“recipe”>{{< /rawhtml >}}
+{{< rawhtml >}}<section class=recipe>{{< /rawhtml >}}
 
 ## Recipe: Weeknight Bolognese
 
