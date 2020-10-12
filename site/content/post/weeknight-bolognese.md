@@ -1,9 +1,7 @@
 ---
 title: Weeknight Bolognese
 date: 2011-11-03T17:41:00.000Z
-description: The goal of a Weeknight Bolognese is to conjure up the basic flavor
-  of a classic Bolognese while reducing the cooking time from roughly the length
-  of a Kardashian marriage to a quick, 30-minute romp.
+description: The goal of a Weeknight Bolognese is to conjure up the basic flavor of a classic Bolognese while reducing the cooking time from roughly the length of a Kardashian marriage to a quick, 30-minute romp.
 image: img/weeknight-bolognese-1.jpg
 ---
 Nothing takes the chill out of a cold, wet, rainy day like a big bowl full of something warm. Shrimp and grits. Chicken and dumplings. Taco soup crowned with Fritos. Things that make a house feel like it’s reaching its arms around you and pulling you in, in a way that butternut squash just can’t quite manage.
